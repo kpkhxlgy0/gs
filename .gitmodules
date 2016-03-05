@@ -1,0 +1,3 @@
+[submodule "service/agent"]
+	path = service/agent
+	url = git@github.com:kpkhxlgy0/gs-agent.git
