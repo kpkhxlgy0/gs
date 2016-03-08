@@ -7,4 +7,4 @@ go get -u google.golang.org/grpc
 go get -u gopkg.in/mgo.v2/bson
 
 go get -u github.com/kpkhxlgy0/gs_libs
-go get -u github.com:kpkhxlgy0/gs-agent
+go get -u github.com/kpkhxlgy0/gs-agent
